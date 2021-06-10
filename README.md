@@ -1,24 +1,13 @@
-# GRN
-Code for our AAAI2019 paper "GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition"
+# GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition
 
-## Requirements and Installation
-We recommended the following dependencies.
+ 
 
-* [PyTorch](http://pytorch.org/) 0.4
-* Python 3.6
-* torchvision
-* Numpy
+The official repository for the open-sourced implementation of the paper:
 
-## Training and Test
+ 
 
-After datasets are prepared, run `train.py`:
+[GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition](https://arxiv.org/abs/1907.05611) (AAAI 2019).  _Hui Chen, Zijia Lin, Guiguang Ding, Jian-Guang Lou, Yusen Zhang, and Börje F. Karlsson_
 
-```bash
-python train.py
-```
+ 
 
-Test:
-
-```bash
-python test.py
-```
+is located at: https://github.com/microsoft/vert-papers/tree/master/papers/GRN-NER
